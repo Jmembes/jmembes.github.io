@@ -41,7 +41,7 @@ Radians Instead of Degrees (RID) is a common STI that only affects angles.
 ### Symptoms
 Some symptoms of RID are:
 - Trig functions giving different answers.
-- Failing the `tan 45` test.
+- Failing the $\tan 45$ test.
 
 ### Causes
 Changing the angle mode to Radians or Gradians.
