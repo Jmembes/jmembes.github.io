@@ -17,7 +17,7 @@ The #1 cause of HIV is speedily inputing numbers in your instrument. If you don'
 
 This may also be caused by putting the entire equation into your instrument at once. 
 
-### Cures
+### Treatment
 Carefully reading over the equation before you press the equals button.
 
 ## Low Quality Instrument
@@ -32,7 +32,7 @@ Some symptoms of LQI are:
 ### Causes
 Not investing in a high quality scientific calculator is the sole cause of LQI.
 
-### Cures
+### Treatment
 Investing in a high quality scientific calculator.
 
 ## Radians Instead of Degrees
@@ -46,5 +46,5 @@ Some symptoms of RID are:
 ### Causes
 Changing the angle mode to Radians or Gradians.
 
-### Cures
+### Treatment
 Changing the angle mode to Degrees (D, °)
