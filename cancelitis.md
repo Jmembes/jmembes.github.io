@@ -27,4 +27,4 @@ However, you can cancel $5x$ in the expression $2a^2(5x) \over 2a(5x)$.<br>
 2. $a^2 \over a$
 3. $a$
 
-Answer: $a$
+Now we have the correct answer.
